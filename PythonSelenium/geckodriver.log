@@ -1,0 +1,215 @@
+1605698069071	geckodriver	INFO	Listening on 127.0.0.1:56273
+1605698070086	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileGJqAW9"
+1605698072637	Marionette	INFO	Listening on port 56280
+1605698072690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605698085857	Marionette	INFO	Stopped listening on port 56280
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605699368953	geckodriver	INFO	Listening on 127.0.0.1:58922
+1605699369937	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileSFrVQB"
+1605699372510	Marionette	INFO	Listening on port 58934
+1605699372604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605699397645	Marionette	INFO	Stopped listening on port 58934
+1605714349048	geckodriver	INFO	Listening on 127.0.0.1:53646
+1605714349111	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofile1oRnxS"
+1605714351427	Marionette	INFO	Listening on port 53651
+1605714351498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605714475172	geckodriver	INFO	Listening on 127.0.0.1:54216
+1605714475199	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofilestKGX2"
+1605714477796	Marionette	INFO	Listening on port 54221
+1605714477842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605714482344	Marionette	INFO	Stopped listening on port 54221
+1605714496891	Marionette	INFO	Stopped listening on port 53651
+1605714503867	geckodriver	INFO	Listening on 127.0.0.1:54390
+1605714503894	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofile6pc5cB"
+1605714506098	Marionette	INFO	Listening on port 54395
+1605714506176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605714511529	Marionette	INFO	Stopped listening on port 54395
+1605715132518	geckodriver	INFO	Listening on 127.0.0.1:57060
+1605715132536	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileij6ysm"
+1605715135291	Marionette	INFO	Listening on port 57066
+1605715135351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605715140218	Marionette	INFO	Stopped listening on port 57066
+1605719650614	geckodriver	INFO	Listening on 127.0.0.1:61492
+1605719650660	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileWBZw40"
+1605719653270	Marionette	INFO	Listening on port 61499
+1605719653373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605719658831	Marionette	INFO	Stopped listening on port 61499
+1605720037268	geckodriver	INFO	Listening on 127.0.0.1:63302
+1605720037329	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileio3jnB"
+1605720039862	Marionette	INFO	Listening on port 63307
+1605720039926	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1605720113627	geckodriver	INFO	Listening on 127.0.0.1:63702
+1605720113659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofilezmrOmA"
+1605720115882	Marionette	INFO	Listening on port 63707
+1605720115944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605720119836	Marionette	INFO	Stopped listening on port 63307
+1605720139562	Marionette	INFO	Stopped listening on port 63707
+1605720234728	geckodriver	INFO	Listening on 127.0.0.1:64298
+1605720234771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofilevgRbbu"
+1605720237086	Marionette	INFO	Listening on port 64303
+1605720237152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605720248631	Marionette	INFO	Stopped listening on port 64303
+1605720395134	geckodriver	INFO	Listening on 127.0.0.1:65072
+1605720395165	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofile5hHnOh"
+1605720397683	Marionette	INFO	Listening on port 65081
+1605720397739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605720429737	geckodriver	INFO	Listening on 127.0.0.1:65279
+1605720429760	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileGWCYPN"
+1605720432124	Marionette	INFO	Listening on port 65284
+1605720432141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605720437093	Marionette	INFO	Stopped listening on port 65284
+1605720828149	geckodriver	INFO	Listening on 127.0.0.1:50774
+1605720828201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofile94FJd6"
+1605720830694	Marionette	INFO	Listening on port 50779
+1605720830798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605720831476	Marionette	INFO	Stopped listening on port 65081
+1605720860838	geckodriver	INFO	Listening on 127.0.0.1:50981
+1605720860866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofilenEG1wu"
+1605720863382	Marionette	INFO	Listening on port 50986
+1605720863478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605720865516	Marionette	INFO	Stopped listening on port 50779
+1605720868021	Marionette	INFO	Stopped listening on port 50986
+1605722644759	geckodriver	INFO	Listening on 127.0.0.1:59720
+1605722644795	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileOh45l8"
+1605722647399	Marionette	INFO	Listening on port 59725
+1605722647405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605722654798	Marionette	INFO	Stopped listening on port 59725
+1605722948935	geckodriver	INFO	Listening on 127.0.0.1:61149
+1605722949960	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileEQpYXm"
+1605722952564	Marionette	INFO	Listening on port 61160
+1605722952681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605722961112	Marionette	INFO	Stopped listening on port 61160
+1605724277677	geckodriver	INFO	Listening on 127.0.0.1:50549
+1605724278702	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofilempJgAe"
+1605724281278	Marionette	INFO	Listening on port 50560
+1605724281309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605724304177	Marionette	INFO	Stopped listening on port 50560
+1605726065619	geckodriver	INFO	Listening on 127.0.0.1:58241
+1605726065655	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileZuPwwK"
+1605726068239	Marionette	INFO	Listening on port 58250
+1605726068341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/jquery/granite.min.e67470fde615e2d442e08aad300a8905.js, line 17: ReferenceError: jQuery is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js, line 1: ReferenceError: _g is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc/clientlibs/sfdc-aem-master/clientlibs_analytics_login_top.min.079acc6ac381449fc3161fc4777ff535.js, line 64: ReferenceError: jQuery is not defined
+1605726094650	geckodriver	INFO	Listening on 127.0.0.1:58447
+1605726094680	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileR1wgEJ"
+1605726097587	Marionette	INFO	Listening on port 58452
+1605726097723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605726098333	Marionette	INFO	Stopped listening on port 58250
+1605726103540	Marionette	INFO	Stopped listening on port 58452
+1605726155407	geckodriver	INFO	Listening on 127.0.0.1:58769
+1605726155443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileABkabz"
+1605726157944	Marionette	INFO	Listening on port 58774
+1605726158047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/jquery/granite.min.e67470fde615e2d442e08aad300a8905.js, line 17: ReferenceError: jQuery is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js, line 1: ReferenceError: _g is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc/clientlibs/sfdc-aem-master/clientlibs_analytics_login_top.min.079acc6ac381449fc3161fc4777ff535.js, line 64: ReferenceError: jQuery is not defined
+1605726178053	geckodriver	INFO	Listening on 127.0.0.1:58942
+1605726178081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofilenidGbs"
+1605726180900	Marionette	INFO	Listening on port 58947
+1605726180991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/utils.min.a53a609d64abb59ba4017351854c46d0.js, line 120: ReferenceError: jQuery is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/jquery/granite.min.e67470fde615e2d442e08aad300a8905.js, line 17: ReferenceError: jQuery is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js, line 1: ReferenceError: _g is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc/clientlibs/sfdc-aem-master/clientlibs_analytics_login_top.min.079acc6ac381449fc3161fc4777ff535.js, line 64: ReferenceError: jQuery is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc/clientlibs/sfdc-aem-master/clientlibs_analytics_login_bottom.min.2c6d1f00f6040ed20054f4c4d9eaadfd.js, line 33: TypeError: vp.getProperty is not a function
+JavaScript error: https://c.salesforce.com/login-messages/promos.html, line 43: TypeError: SfdcWwwBase.gdpr.init is not a function
+1605726184133	Marionette	INFO	Stopped listening on port 58774
+1605726197739	geckodriver	INFO	Listening on 127.0.0.1:59112
+1605726197774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofiledJdbwl"
+1605726200052	Marionette	INFO	Listening on port 59117
+1605726200098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605726201530	Marionette	INFO	Stopped listening on port 58947
+1605726212527	geckodriver	INFO	Listening on 127.0.0.1:59257
+1605726212565	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofile5HWt9Z"
+1605726214944	Marionette	INFO	Listening on port 59262
+1605726215050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605726216524	Marionette	INFO	Stopped listening on port 59117
+1605726285025	geckodriver	INFO	Listening on 127.0.0.1:59651
+1605726285070	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileyZq6Xh"
+1605726287385	Marionette	INFO	Listening on port 59656
+1605726287556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605726287581	Marionette	INFO	Stopped listening on port 59262
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/utils.min.a53a609d64abb59ba4017351854c46d0.js, line 120: ReferenceError: jQuery is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/jquery/granite.min.e67470fde615e2d442e08aad300a8905.js, line 17: ReferenceError: jQuery is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js, line 1: ReferenceError: _g is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc/clientlibs/sfdc-aem-master/clientlibs_analytics_login_top.min.079acc6ac381449fc3161fc4777ff535.js, line 64: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.salesforce.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.salesforce.com"
+1605726383057	geckodriver	INFO	Listening on 127.0.0.1:60136
+1605726383096	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofile0ZEytR"
+1605726385614	Marionette	INFO	Listening on port 60141
+1605726385691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605726386083	Marionette	INFO	Stopped listening on port 59656
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/utils.min.a53a609d64abb59ba4017351854c46d0.js, line 120: ReferenceError: jQuery is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/jquery/granite.min.e67470fde615e2d442e08aad300a8905.js, line 17: ReferenceError: jQuery is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js, line 1: ReferenceError: _g is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc/clientlibs/sfdc-aem-master/clientlibs_analytics_login_top.min.079acc6ac381449fc3161fc4777ff535.js, line 64: ReferenceError: jQuery is not defined
+1605726391220	Marionette	INFO	Stopped listening on port 60141
+1605764695185	geckodriver	INFO	Listening on 127.0.0.1:49570
+1605764695213	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofilev7ZFZy"
+1605764698559	Marionette	INFO	Listening on port 49575
+1605764698638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1605764720246	Marionette	INFO	Stopped listening on port 49575
+1605764855787	geckodriver	INFO	Listening on 127.0.0.1:50316
+1605764856805	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofilebwQAgZ"
+1605764859435	Marionette	INFO	Listening on port 50328
+1605764859498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1605764863033	Marionette	INFO	Stopped listening on port 50328
+1605764895279	geckodriver	INFO	Listening on 127.0.0.1:50550
+1605764895307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileA17fNe"
+1605764897907	Marionette	INFO	Listening on port 50555
+1605764897921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1605764921691	geckodriver	INFO	Listening on 127.0.0.1:50723
+1605764921716	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileqlVOTU"
+1605764924379	Marionette	INFO	Listening on port 50728
+1605764924426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1605764925901	Marionette	INFO	Stopped listening on port 50555
+1605764928136	Marionette	INFO	Stopped listening on port 50728
+1605764967177	geckodriver	INFO	Listening on 127.0.0.1:50972
+1605764967211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofilew9ntg0"
+1605764969620	Marionette	INFO	Listening on port 50977
+1605764969693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1605764973686	Marionette	INFO	Stopped listening on port 50977
+1605768116921	geckodriver	INFO	Listening on 127.0.0.1:64220
+1605768117949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileachkM2"
+1605768120581	Marionette	INFO	Listening on port 64231
+1605768120634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1605768129582	Marionette	INFO	Stopped listening on port 64231
+1605768227753	geckodriver	INFO	Listening on 127.0.0.1:64745
+1605768227779	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofile9vQ3Cr"
+1605768230601	Marionette	INFO	Listening on port 64750
+1605768230676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1605768239013	Marionette	INFO	Stopped listening on port 64750
+1605768282098	geckodriver	INFO	Listening on 127.0.0.1:65039
+1605768282124	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileKrHjwh"
+1605768285232	Marionette	INFO	Listening on port 65044
+1605768285272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1605768291550	Marionette	INFO	Stopped listening on port 65044
+1605768572633	geckodriver	INFO	Listening on 127.0.0.1:49919
+1605768572668	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileneQk6N"
+1605768575120	Marionette	INFO	Listening on port 49924
+1605768575147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1605768581048	Marionette	INFO	Stopped listening on port 49924

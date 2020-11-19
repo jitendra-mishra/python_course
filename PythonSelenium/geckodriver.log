@@ -337,3 +337,100 @@ console.error: "Store does not have a valid reducer. Make sure the argument pass
 1605784241281	Marionette	INFO	Listening on port 55882
 1605784241411	Marionette	WARN	TLS certificate errors will be ignored for this session
 1605784248373	Marionette	INFO	Stopped listening on port 55882
+1605793977813	geckodriver	INFO	Listening on 127.0.0.1:61368
+1605793977849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileWyuob5"
+1605793980419	Marionette	INFO	Listening on port 61373
+1605793980450	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: controllerWindow is null
+Full stack: installController@resource://devtools/client/shared/undo.js:154:25
+get undo@resource://devtools/client/inspector/markup/markup.js:402:18
+get undo@resource://devtools/client/inspector/markup/views/markup-container.js:50:5
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:11
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+*************************
+1605794035637	Marionette	INFO	Stopped listening on port 61373
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 446: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 446: Error: OS.File has been shut down. Rejecting request to stat
+1605794038540	geckodriver	INFO	Listening on 127.0.0.1:61682
+1605794038571	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofile5aQIUd"
+1605794040713	Marionette	INFO	Listening on port 61687
+1605794040729	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1605794094182	Marionette	INFO	Stopped listening on port 61687
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605794097098	geckodriver	INFO	Listening on 127.0.0.1:61983
+1605794097128	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileet8S4W"
+1605794099569	Marionette	INFO	Listening on port 61988
+1605794099599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605794109113	Marionette	INFO	Stopped listening on port 61988
+1605794235260	geckodriver	INFO	Listening on 127.0.0.1:62618
+1605794235290	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofile7GiETH"
+1605794237555	Marionette	INFO	Listening on port 62623
+1605794237568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605794252038	Marionette	INFO	Stopped listening on port 62623
+1605794352220	geckodriver	INFO	Listening on 127.0.0.1:63148
+1605794352246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofilePdHUvX"
+1605794354225	Marionette	INFO	Listening on port 63153
+1605794354408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605794427128	Marionette	INFO	Stopped listening on port 63153
+1605794429426	geckodriver	INFO	Listening on 127.0.0.1:63528
+1605794429463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileS0YTYR"
+1605794431811	Marionette	INFO	Listening on port 63533
+1605794431858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605794444933	Marionette	INFO	Stopped listening on port 63533
+1605795268525	geckodriver	INFO	Listening on 127.0.0.1:50640
+1605795268547	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileGoQQ8E"
+1605795270925	Marionette	INFO	Listening on port 50645
+1605795270948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605795621545	geckodriver	INFO	Listening on 127.0.0.1:52129
+1605795621566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileF4xwdb"
+1605795623910	Marionette	INFO	Listening on port 52134
+1605795623938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605795624428	Marionette	INFO	Stopped listening on port 50645
+1605795721260	geckodriver	INFO	Listening on 127.0.0.1:52611
+1605795721294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileYCrssM"
+1605795723549	Marionette	INFO	Listening on port 52616
+1605795723580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605795861466	geckodriver	INFO	Listening on 127.0.0.1:53251
+1605795862461	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileYiZaWP"
+1605795864637	Marionette	INFO	Listening on port 53262
+1605795864722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605795868373	Marionette	INFO	Stopped listening on port 52134
+1605795870695	Marionette	INFO	Stopped listening on port 52616
+1605796026878	geckodriver	INFO	Listening on 127.0.0.1:54001
+1605796026900	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileO5n3B7"
+1605796029025	Marionette	INFO	Listening on port 54006
+1605796029058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605796029326	Marionette	INFO	Stopped listening on port 53262
+1605796055012	Marionette	INFO	Stopped listening on port 54006
+1605796109704	geckodriver	INFO	Listening on 127.0.0.1:54396
+1605796109733	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofilehuh68t"
+1605796111788	Marionette	INFO	Listening on port 54401
+1605796111809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605796148490	Marionette	INFO	Stopped listening on port 54401
+1605796150318	geckodriver	INFO	Listening on 127.0.0.1:54617
+1605796150350	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileJWlRw8"
+1605796152891	Marionette	INFO	Listening on port 54622
+1605796152937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605796178462	geckodriver	INFO	Listening on 127.0.0.1:54795
+1605796178481	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileY1F8y7"
+1605796180950	Marionette	INFO	Listening on port 54800
+1605796180982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605796181627	Marionette	INFO	Stopped listening on port 54622
+1605796193862	Marionette	INFO	Stopped listening on port 54800
+1605810110128	geckodriver	INFO	Listening on 127.0.0.1:62759
+1605810110155	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1_/vsb3z5g14mx9tvdc3clwn1w40000gn/T/rust_mozprofileIcLRXt"
+1605810114127	Marionette	INFO	Listening on port 62764
+1605810114185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605810127156	Marionette	INFO	Stopped listening on port 62764
